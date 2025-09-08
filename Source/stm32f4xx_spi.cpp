@@ -11,7 +11,7 @@
  * - RM0383  : Rev  4
  *****************************************/
 
-#include "stm32f4xx_spi.h"
+#include "stm32f4xx_spi.hpp"
 
 
 /* SPI class */

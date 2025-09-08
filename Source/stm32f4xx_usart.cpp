@@ -5,7 +5,7 @@
  *      Author: marcel.beuler
  */
 
-#include "stm32f4xx_usart.h"
+#include "stm32f4xx_usart.hpp"
 
 
 USART* USART::myInstance[USART_MAX_INSTANCES]; // Callback instance handle for instanceISR()

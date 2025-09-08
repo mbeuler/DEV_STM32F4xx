@@ -1,12 +1,12 @@
 /*
- * stm32f4xx_usart.h
+ * stm32f4xx_usart.hpp
  *
  *  Created on: Aug 2, 2022
  *      Author: marcel.beuler
  */
 
-#ifndef STM32F4XX_INCLUDE_STM32F4XX_USART_H_
-#define STM32F4XX_INCLUDE_STM32F4XX_USART_H_
+#ifndef STM32F4XX_INCLUDE_STM32F4XX_USART_HPP_
+#define STM32F4XX_INCLUDE_STM32F4XX_USART_HPP_
 
 #include "stm32f4xx.h"
 
@@ -176,4 +176,4 @@ private:
 };
 
 
-#endif /* STM32F4XX_INCLUDE_STM32F4XX_USART_H_ */
+#endif /* STM32F4XX_INCLUDE_STM32F4XX_USART_HPP_ */

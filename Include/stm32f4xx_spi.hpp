@@ -1,12 +1,12 @@
 /*
- * stm32f4xx_spi.h
+ * stm32f4xx_spi.hpp
  *
  *  Created on: May 9, 2024
  *      Author: mbeuler
  */
 
-#ifndef STM32F4XX_INCLUDE_STM32F4XX_SPI_H_
-#define STM32F4XX_INCLUDE_STM32F4XX_SPI_H_
+#ifndef STM32F4XX_INCLUDE_STM32F4XX_SPI_HPP_
+#define STM32F4XX_INCLUDE_STM32F4XX_SPI_HPP_
 
 #include "stm32f4xx.h"
 
@@ -87,4 +87,4 @@ private:
 	inline bool isValidBase();
 };
 
-#endif /* STM32F4XX_INCLUDE_STM32F4XX_SPI_H_ */
+#endif /* STM32F4XX_INCLUDE_STM32F4XX_SPI_HPP_ */
